@@ -1,0 +1,9 @@
+*.cpp~
+*.out
+*.exe
+*.swp
+*.swm
+*.swo
+*.swn
+*.un~
+*.un.cpp~ 
